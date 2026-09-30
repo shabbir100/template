@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 10;
+  min-height: 90vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.test {
+  color: dodgerblue;
+  font-size: 24px;
+  margin: 10px;
+}
